@@ -1,0 +1,22 @@
+.top-content {
+    height: 600px;
+    padding: 160px 0px;
+    color: rgba(255, 255, 255, 0.76);
+    font-size: 18px;
+    background-color: grey;
+}
+.top-content-row {
+    padding-top: 80px;
+}
+.top-content h1 {
+    color: white;
+}
+.top-content .description {
+    padding-top: 2px;
+    opacity: 0.8;
+}
+
+.navbar{
+    background-color: red;
+}
+
